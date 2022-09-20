@@ -8,11 +8,17 @@ git add .
 git commit 
 git push 
 
-git reset
+git reset --soft HEAD^1
 git log
 git status
 git rm
 git restore --staged "file"
 
+
 เมื่อ commit แล้วอยาก ย้อนกลับ
 git reset --soft HEAD^1
+
+save ti git
+git remote add origin https://github.com/Khattiya01/git-test.git
+git branch -M main
+git push -u origin main
