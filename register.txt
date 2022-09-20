@@ -23,4 +23,6 @@ git remote add origin https://github.com/Khattiya01/git-test.git
 git branch -M main
 git push -u origin main
 
+สถานะ
+git remode -v
 .............................................
