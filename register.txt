@@ -1,9 +1,10 @@
+เชื่อมต่อกับ github
 git config --global -l 
 git config --global user.name "name"
 git config --global user.email "mail"
 
-operator
-git add 
+3 0yho9vo 
+git add .
 git commit 
 git push 
 
@@ -11,4 +12,7 @@ git reset
 git log
 git status
 git rm
-git restore "file"
+git restore --staged "file"
+
+เมื่อ commit แล้วอยาก ย้อนกลับ
+git reset --soft HEAD^1
