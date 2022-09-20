@@ -1,1 +1,8 @@
 git pull https://github.com/Khattiya01/git-test.git main
+
+การสร้าง  branch ใหม่
+git branch "namebranch"
+เช็ค  ว่ามีกี่ branch
+git branch
+เปลี่ยน เป็น branch
+git checkout "namebranch"
