@@ -12,3 +12,6 @@ git checkout -b "name"
 
 รวมกัน
 git merge "name"
+
+ข้อมูลที่ แตกต่าง
+git diff ""name name"
