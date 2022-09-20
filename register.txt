@@ -3,8 +3,12 @@ git config --global user.name "name"
 git config --global user.email "mail"
 
 operator
-git add.
-git commit
-git push
+git add 
+git commit 
+git push 
 
 git reset
+git log
+git status
+git rm
+git restore "file"
