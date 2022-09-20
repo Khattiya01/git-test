@@ -9,7 +9,7 @@ git commit
 git push 
 
 git reset --soft HEAD^1
-git log
+git log --oneline --graph --decorate --all
 git status
 git rm
 git restore --staged "file"
